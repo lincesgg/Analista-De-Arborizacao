@@ -1,0 +1,79 @@
+{
+
+{
+"link":"https://www.google.com.br/maps/@-5.0589665,-42.7684833,52m/data=!3m1!1e3",
+"index":0,
+
+"vegetation_percentage":20.835,
+"vegetation_percentage_calculated":17.15,
+
+"total_area": 11619.71,
+"total_area_calculated":14221.25,
+"scale_precision":0.8170667135448711
+
+"vegetation_area": 2421,
+"vegetation_area_calculated":2438.91,
+},
+
+},
+"link":"https://www.google.com.br/maps/@-5.0591587,-42.7671089,146m/data=!3m1!1e3",
+"index":1,
+
+"vegetation_percentage":6.234,
+"vegetation_percentage_calculated":3.795,
+
+"total_area": 4938.85,
+"total_area_calculated":5835.03,
+"scale_precision":0.8464138144962409
+
+"vegetation_area": 307.89,
+"vegetation_area_calculated":221.44,
+},
+
+{
+"link":"https://www.google.com.br/maps/@-5.0859707,-42.7964782,195m/data=!3m1!1e3",
+"index":2,
+
+"vegetation_percentage":15.576,
+"vegetation_percentage_calculated":49.139,
+
+"total_area": 6983.48,
+"total_area_calculated":8243.21,
+"scale_precision":0.8471796787901801
+
+"vegetation_area": 1087.73,
+"vegetation_area_calculated":4050.62,
+},
+
+{
+"link":"https://www.google.com.br/maps/@-5.0674646,-42.8086068,52m/data=!3m1!1e3",
+"index":3,
+
+"vegetation_percentage":48.658,
+"vegetation_percentage_calculated":35.211,
+
+"total_area": 930.67,
+"total_area_calculated":1148.15,
+"scale_precision":0.8105822409963854
+
+"vegetation_area": 452.85,
+"vegetation_area_calculated":404.28,
+},
+
+{
+"link":"https://www.google.com.br/maps/@-5.0880791,-42.8147817,158m/data=!3m1!1e3",
+"index":4,
+
+"vegetation_percentage":9.028,
+"vegetation_percentage_calculated":29.904,
+
+"total_area": 6639.72,
+"total_area_calculated":7519.74,
+"scale_precision":0.8829720176495465
+
+"vegetation_area": 599.44,
+"vegetation_area_calculated":2248.73,
+}
+
+}
+
